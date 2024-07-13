@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StarryOwl\\Documents\\\uACBD\uD76C\uB300 \uCEF4\uACF5\\\uBC31\uC900\\100jun\\\uAE30\uCD08\uBC30\uC6B0\uAE30\\Cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC79F18-C3B0-4833-9811-F52D368DE0F3}|Cpp\\Cpp.vcxproj|C:\\Users\\StarryOwl\\Documents\\\uACBD\uD76C\uB300 \uCEF4\uACF5\\\uBC31\uC900\\100jun\\\uAE30\uCD08\uBC30\uC6B0\uAE30\\Cpp\\Cpp\\cpp001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC79F18-C3B0-4833-9811-F52D368DE0F3}|Cpp\\Cpp.vcxproj|solutionrelative:Cpp\\cpp001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp001.cpp",
+              "DocumentMoniker": "C:\\Users\\StarryOwl\\Documents\\\uACBD\uD76C\uB300 \uCEF4\uACF5\\\uBC31\uC900\\100jun\\\uAE30\uCD08\uBC30\uC6B0\uAE30\\Cpp\\Cpp\\cpp001.cpp",
+              "RelativeDocumentMoniker": "Cpp\\cpp001.cpp",
+              "ToolTip": "C:\\Users\\StarryOwl\\Documents\\\uACBD\uD76C\uB300 \uCEF4\uACF5\\\uBC31\uC900\\100jun\\\uAE30\uCD08\uBC30\uC6B0\uAE30\\Cpp\\Cpp\\cpp001.cpp",
+              "RelativeToolTip": "Cpp\\cpp001.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T20:01:57.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
